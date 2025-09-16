@@ -2,6 +2,7 @@
 input{
     text-align:right;
     height: 100%;
+    width: 100%;
 }
 type{
     text-align: center;
@@ -27,6 +28,7 @@ table{
     margin-top: 170px;
     border-radius: 8px;
     border: 4px;;
-    height: 300px;
+    height: 400px;
+    width: 300px;;
     border-style:solid;
 }
